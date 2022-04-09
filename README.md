@@ -1,4 +1,4 @@
 # MyZSHConfig
-My Zsh Linux Termianl Config :)
+My Zsh Linux Terminal Config :)
 
 Just my personal ZSH config file
